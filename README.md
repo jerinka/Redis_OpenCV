@@ -2,7 +2,7 @@
 
 ## Redis Docker
 
-```docker run -p 6379:6379 redis```
+```docker run -d -p 6379:6379 redis```
 
 ## Read Write image array
 
