@@ -1,4 +1,4 @@
-# Redis and Opencv
+# Redis and OpenCV
 
 Eg: OpenCV based camera reading and pushing frames to Redis, another application fetching frames from Redis and showing in screen.
 
