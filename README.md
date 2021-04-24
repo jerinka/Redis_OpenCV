@@ -1,4 +1,6 @@
-# Redis Opencv
+# Redis and Opencv
+
+Eg: OpenCV based camera reading and pushing frames to Redis, another application fetching frames from Redis and showing in screen.
 
 ![redis](redis.png)
 
