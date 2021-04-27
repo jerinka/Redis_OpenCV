@@ -3,7 +3,6 @@ import cv2
 import numpy as np
 import time
 import io
-from PIL import Image
 import uuid
 
 r = redis.StrictRedis.from_url('redis://')
